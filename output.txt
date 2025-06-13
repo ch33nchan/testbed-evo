@@ -1,0 +1,154 @@
+python main.py                                                
+pygame 2.6.1 (SDL 2.28.4, Python 3.9.6)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+
+--- Generation 0 ---
+  Best Policy of Gen 0: [W: G | S: G | C: G] | Fitness: 146
+
+--- Generation 1 ---
+  Best Policy of Gen 1: [W: G | S: P | C: G] | Fitness: 185
+
+--- Generation 2 ---
+  Best Policy of Gen 2: [W: G | S: P | C: G] | Fitness: 166
+
+--- Generation 3 ---
+  Best Policy of Gen 3: [W: G | S: P | C: G] | Fitness: 179
+
+--- Generation 4 ---
+  Best Policy of Gen 4: [W: G | S: P | C: G] | Fitness: 185
+
+--- Generation 5 ---
+  Best Policy of Gen 5: [W: G | S: P | C: G] | Fitness: 179
+
+--- Generation 6 ---
+  Best Policy of Gen 6: [W: G | S: P | C: G] | Fitness: 177
+
+--- Generation 7 ---
+  Best Policy of Gen 7: [W: G | S: P | C: G] | Fitness: 188
+
+--- Generation 8 ---
+  Best Policy of Gen 8: [W: G | S: P | C: G] | Fitness: 178
+
+--- Generation 9 ---
+  Best Policy of Gen 9: [W: G | S: P | C: G] | Fitness: 168
+
+--- Generation 10 ---
+  Best Policy of Gen 10: [W: G | S: P | C: G] | Fitness: 199
+
+--- Generation 11 ---
+  Best Policy of Gen 11: [W: G | S: P | C: G] | Fitness: 181
+
+--- Generation 12 ---
+  Best Policy of Gen 12: [W: G | S: P | C: G] | Fitness: 169
+
+--- Generation 13 ---
+  Best Policy of Gen 13: [W: G | S: P | C: G] | Fitness: 178
+
+--- Generation 14 ---
+  Best Policy of Gen 14: [W: G | S: P | C: G] | Fitness: 177
+
+--- Generation 15 ---
+  Best Policy of Gen 15: [W: G | S: P | C: G] | Fitness: 189
+
+--- Generation 16 ---
+  Best Policy of Gen 16: [W: G | S: P | C: G] | Fitness: 184
+
+--- Generation 17 ---
+  Best Policy of Gen 17: [W: G | S: P | C: G] | Fitness: 173
+
+--- Generation 18 ---
+  Best Policy of Gen 18: [W: G | S: P | C: G] | Fitness: 176
+
+--- Generation 19 ---
+  Best Policy of Gen 19: [W: G | S: P | C: G] | Fitness: 181
+
+--- Generation 20 ---
+  Best Policy of Gen 20: [W: G | S: P | C: G] | Fitness: 164
+
+--- Generation 21 ---
+  Best Policy of Gen 21: [W: G | S: P | C: G] | Fitness: 173
+
+--- Generation 22 ---
+  Best Policy of Gen 22: [W: G | S: P | C: G] | Fitness: 170
+
+--- Generation 23 ---
+  Best Policy of Gen 23: [W: G | S: P | C: G] | Fitness: 175
+
+--- Generation 24 ---
+  Best Policy of Gen 24: [W: G | S: P | C: G] | Fitness: 170
+
+--- Generation 25 ---
+  Best Policy of Gen 25: [W: G | S: P | C: G] | Fitness: 172
+
+--- Generation 26 ---
+  Best Policy of Gen 26: [W: G | S: P | C: G] | Fitness: 164
+
+--- Generation 27 ---
+  Best Policy of Gen 27: [W: G | S: P | C: G] | Fitness: 173
+
+--- Generation 28 ---
+  Best Policy of Gen 28: [W: G | S: P | C: G] | Fitness: 178
+
+--- Generation 29 ---
+  Best Policy of Gen 29: [W: G | S: P | C: G] | Fitness: 167
+
+--- Generation 30 ---
+  Best Policy of Gen 30: [W: G | S: P | C: G] | Fitness: 182
+
+--- Generation 31 ---
+  Best Policy of Gen 31: [W: G | S: P | C: G] | Fitness: 179
+
+--- Generation 32 ---
+  Best Policy of Gen 32: [W: G | S: P | C: G] | Fitness: 177
+
+--- Generation 33 ---
+  Best Policy of Gen 33: [W: G | S: P | C: G] | Fitness: 176
+
+--- Generation 34 ---
+  Best Policy of Gen 34: [W: G | S: P | C: G] | Fitness: 182
+
+--- Generation 35 ---
+  Best Policy of Gen 35: [W: G | S: P | C: G] | Fitness: 183
+
+--- Generation 36 ---
+  Best Policy of Gen 36: [W: G | S: P | C: G] | Fitness: 172
+
+--- Generation 37 ---
+  Best Policy of Gen 37: [W: G | S: P | C: G] | Fitness: 182
+
+--- Generation 38 ---
+  Best Policy of Gen 38: [W: G | S: P | C: G] | Fitness: 169
+
+--- Generation 39 ---
+  Best Policy of Gen 39: [W: G | S: P | C: G] | Fitness: 191
+
+--- Generation 40 ---
+  Best Policy of Gen 40: [W: G | S: P | C: G] | Fitness: 183
+
+--- Generation 41 ---
+  Best Policy of Gen 41: [W: G | S: P | C: G] | Fitness: 174
+
+--- Generation 42 ---
+  Best Policy of Gen 42: [W: G | S: P | C: G] | Fitness: 171
+
+--- Generation 43 ---
+  Best Policy of Gen 43: [W: G | S: P | C: G] | Fitness: 182
+
+--- Generation 44 ---
+  Best Policy of Gen 44: [W: G | S: P | C: G] | Fitness: 173
+
+--- Generation 45 ---
+  Best Policy of Gen 45: [W: G | S: P | C: G] | Fitness: 184
+
+--- Generation 46 ---
+  Best Policy of Gen 46: [W: G | S: P | C: G] | Fitness: 168
+
+--- Generation 47 ---
+  Best Policy of Gen 47: [W: G | S: P | C: G] | Fitness: 160
+
+--- Generation 48 ---
+  Best Policy of Gen 48: [W: G | S: P | C: G] | Fitness: 179
+
+--- Generation 49 ---
+  Best Policy of Gen 49: [W: G | S: P | C: G] | Fitness: 188
+Simulation finished.
