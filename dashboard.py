@@ -33,6 +33,6 @@ def run_dashboard(queue):
         fig.tight_layout()
         return line_best, line_avg,
 
-    # --- THIS LINE IS MODIFIED TO FIX THE WARNING ---
+
     ani = FuncAnimation(fig, update, interval=500, blit=True, cache_frame_data=False)
     plt.show()

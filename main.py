@@ -1,9 +1,7 @@
 # main.py
 import pygame
 import copy
-from settings import * # # # # # # # # # # # # # # #
-# THIS LINE IS THE FIX. IT MUST BE PRESENT. #
-# # # # # # # # # # # # # # # # # # # # # # # # # # # #
+from settings import * 
 from environment import GridWorld
 from agents import GeneralistForager, PunishmentTrained_Miner
 from evolution import EvolutionaryAlgorithm
